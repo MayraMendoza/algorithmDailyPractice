@@ -8,6 +8,9 @@ public class JavaAlgorithmPracticeSet1 {
 
         return arr[0];
 
+        // this will return first element in an array
+
+
     }
 
    
